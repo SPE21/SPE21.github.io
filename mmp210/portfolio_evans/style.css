@@ -1,0 +1,61 @@
+*{
+    text-decoration: none;
+}
+body{
+    padding:0;
+    margin:0;
+    background: #00001a;
+}
+
+a{
+    color:#0040ff;
+}
+a:hover{
+    color: aqua;
+}
+
+#doggy{
+    position:relative; top: 100px; left:100px;
+}
+
+h1{
+    text-align: center;
+    color:white;
+}
+
+.top{
+    float: left;
+    width:33.33%;
+    text-align: center;
+    color: aquamarine;
+    text-decoration:none;
+}
+
+.o{
+    float: left;
+    width:33.33%;
+    text-align: center;
+    color: aquamarine;
+    text-decoration:none;
+}
+
+.n{
+    width:33.%;
+    text-align: center;
+    color: aquamarine;
+    text-decoration:none;
+}
+
+footer{
+    color: white;
+    position:absolute;
+    width:100%;
+    text-align: center;
+}
+
+
+
+
+
+
+
